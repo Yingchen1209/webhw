@@ -1,0 +1,38 @@
+.navbar-brand img{
+    height: 5rem;
+}
+.navbar {
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    margin: auto;
+    z-index: 999;
+  }
+.intro{
+    background-color: black;
+}
+
+.img1{
+    background-position: 100%;
+    position: center;
+}
+.first-img{
+    margin-top:5rem;
+}
+.footer{
+    height:100px;
+    padding:5px 0;
+    background-color: black;
+}
+.foot-logo
+{
+    height: 5rem;
+}
+.row {
+  margin-right: -20px; 
+  margin-left: -20px;
+}
+.twitter{
+    height: 4rem;
+}
